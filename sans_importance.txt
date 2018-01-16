@@ -1,3 +1,0 @@
-réalisation du Fichier numéro 2 dans le repository mais qui ne sert strictement à rien.
-au fait : j'utilise github Desktop plutot git bash ce qui est plus simple
-et pour le texte notepad++
