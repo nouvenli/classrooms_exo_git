@@ -1,3 +1,8 @@
 réalisation du Fichier numéro 2 dans le repository mais qui ne sert strictement à rien.
 au fait : j'utilise github Desktop plutot git bash ce qui est plus simple
 et pour le texte notepad++
+
+test de la fonction revert sur ce commit
+  - cela supprimer le fichier du repository
+  - un revert d'un revert remet le fichier
+  
